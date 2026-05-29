@@ -1,0 +1,34 @@
+1. Ringkasan Performa & Kepuasan Pelanggan
+Dominasi Pendapatan: Perusahaan mencatat total pendapatan yang kuat sebesar 13.75M.
+
+Metrik Kepuasan: Rata-rata kepuasan pelanggan berada di angka 3.00. Meskipun angka ini terlihat stabil, sebagai analis kita harus waspada karena angka ini berada tepat di tengah skala (moderat). Tidak ada satu pun merek besar (Apple, Samsung, Sony, HP) yang berhasil menembus angka kepuasan 3.10.
+
+Insight: Ada standarisasi kualitas di seluruh merek, namun belum ada "produk unggulan" yang benar-benar membuat pelanggan sangat puas. Perlu investigasi pada layanan purna jual atau kualitas produk fisik.
+
+2. Segmentasi Pelanggan: Tulang Punggung Bisnis
+Loyalitas adalah Kunci: Segmen Loyal Customer menyumbang porsi terbesar pendapatan, yaitu 58.65% (8.06M).
+
+Insight: Bisnis Anda sangat bergantung pada pelanggan tetap. Ini adalah sinyal positif, namun segmen Occasional Customer hanya 15.35%.
+
+Rekomendasi: Perusahaan harus meningkatkan strategi akuisisi pelanggan baru atau kampanye referral agar tidak hanya bergantung pada basis pelanggan yang lama.
+
+3. Analisis Produk & Gender (Product-Category Insights)
+Preferensi Berdasarkan Gender:
+
+Laptops: Didominasi oleh konsumen Laki-laki (1.45M vs 1.36M).
+
+Smart Watches & Tablets: Menunjukkan tren yang menarik di mana konsumen Perempuan memberikan kontribusi pendapatan lebih besar (Smart Watches: 1.46M; Tablets: 1.42M).
+
+Insight: Strategi pemasaran untuk produk wearable (Smart Watches) dan portable (Tablets) sebaiknya lebih diarahkan pada audiens perempuan dengan desain atau fitur yang relevan.
+
+4. Analisis Harga & Kepuasan (Price Segment Analysis)
+Korelasi Harga dan Volume: Segmen Expensive menyumbang jumlah transaksi tertinggi (4.5K), disusul segmen Medium (3.2K). Produk segmen Cheap justru paling sedikit diminati (1.3K).
+
+Insight: Pelanggan perusahaan Anda adalah tipe Quality-Driven. Mereka tidak keberatan membayar mahal asalkan barangnya berkualitas.
+
+Rekomendasi: Jangan berperang di harga murah. Fokuslah pada peningkatan fitur dan nilai eksklusif produk segmen Expensive karena di situlah letak volume transaksi terbesar Anda.
+
+5. Rekomendasi Strategis untuk Manajemen
+Peningkatan Produk Tablets: Tablet saat ini memiliki kontribusi pendapatan yang kompetitif namun seringkali dianggap produk pelengkap. Mengingat tingginya minat dari segmen perempuan, ini bisa dijadikan fokus kampanye berikutnya.
+
+Diferensiasi Brand: Karena skor kepuasan antar brand (Apple, Samsung, Sony, dll) hampir identik (selisih hanya 0.01-0.10), perusahaan dapat memenangkan pasar dengan memberikan Value Added Service yang tidak dimiliki brand lain, seperti perpanjangan garansi atau layanan servis di tempat.
